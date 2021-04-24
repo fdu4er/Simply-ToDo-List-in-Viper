@@ -1,4 +1,4 @@
-# Simply ToDo List in VIPER
+# A simple ToDo list with VIPER architecture
 Цель данного проекта — продемонстрировать работу архиектуры VIPER (View Interactor Presenter Entity Router) на примере простого списка дел
 \
 \
