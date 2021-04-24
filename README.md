@@ -1,5 +1,5 @@
 # A simple ToDo list with VIPER architecture
-Цель данного проекта — продемонстрировать работу архиектуры VIPER (View Interactor Presenter Entity Router) на примере простого списка дел
+Цель данного проекта — продемонстрировать работу архиектуры VIPER (View Interactor Presenter Entity Router) на примере простого списка задач. Задачи сохраняются в базу данных с использованием фреймворка CoreData.
 \
 \
 ![](https://github.com/fdu4er/Simply-ToDo-List-in-Viper/blob/main/Simulator%20Screen%20Shot%20-%20iPhone%2011%20-%202021-04-24%20at%2023.22.49.png?isRaw=true)
